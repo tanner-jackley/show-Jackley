@@ -14,3 +14,13 @@ Here are 4 actors that I would want to see play the main role of Spider-Man besi
 | Leonardo DiCaprio | Fits discription of Peter Parker | 50 |
 | Jake Gyllenhaal | Played good as Mysterio in Far From Home | 44 |
 | Heath Ledger | Very talented at any role | 28 (dead)
+
+---
+
+## Inspirational Statements
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." 
+> *-Winston Churchill*
+
+> "Your time is limited, don't waste it living someone else's life." 
+> *- Steve Jobs*

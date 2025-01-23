@@ -13,3 +13,4 @@ Here are 4 actors that I would want to see play the main role of Spider-Man besi
 | Tom Cruise | Popular action actor | 62 |
 | Leonardo DiCaprio | Fits discription of Peter Parker | 50 |
 | Jake Gyllenhaal | Played good as Mysterio in Far From Home | 44 |
+| Heath Ledger | Very talented at any role | 28 (dead)
